@@ -1,12 +1,14 @@
 # RPG Magic + Tech
 
 # 1. Begin
+- `#TODO`
 
 
 
 # 2. Mid
 ## Map 1: Rừng nhiễm độc
 ### World
+- `#TODO`
 
 ### Puzzle
 - Cỏ đất nhiễm độc: bất kì sinh vật sống nào (kể cả quái vật) dẫm vào là sẽ mất máu dần dần (nhanh)
@@ -16,12 +18,15 @@
   - Ta phải phá, mở vật cản để ánh sáng lọt vào và làm bão hòa chất độc.
 
 ### Battle
+- `#TODO`
 
 ### Story
 
 
-## Map 2: và núi bánh răng
+
+## Map 2: Hang và núi bánh răng
 ### World
+- `#TODO`
 
 ### Puzzle
 - Tập trung nhiều vào câu đố về nút bấm và cần gạt: sẽ có nhiều đường dẫn điện, ống nước và người chơi phải đóng/mở/điều chỉnh sao cho hợp lí
@@ -29,12 +34,14 @@
   - Nguồn năng lương ở đây chủ yếu là từ thủy điện nên nhiệm vụ của các phần puzzle thường là chuyền điện/ nước từ điểm A đến điểm B
 
 ### Battle
+- `#TODO`
 
 ### Story
 
 
 ## Map 3: Chợ đen khu ổ chuột
 ### World
+- `#TODO`
 
 ### Puzzle
 - Quay lại cơ chế nhiễm độc: nhưng lần là từ nguồn nước => mọc rêu độc và kể cả khi đã bị tiếp xúc với ánh sáng, nếu hết ánh sáng nó sẽ mọc lại độc
@@ -42,18 +49,25 @@
   - Đống độc này có thể biến mất dưới mọi loại ánh sáng, kể cả ánh sáng nhân tạo: puzzle bật, tắt đèn điện, duy trì nguồn ánh sáng, chạy đua với thời gian trước khi rêu độc mọc lại
 
 ### Battle
+- `#TODO`
 
 ### Story
 
 
 ## Map 4: Tháp ma thuật
 ### World
+- `#TODO`
 
 ### Puzzle
+- `#TODO @NNBnh`
+
 ### Battle
+- `#TODO`
+
 ### Story
 
 
 
 # 3. End
+- `#TODO`
 
